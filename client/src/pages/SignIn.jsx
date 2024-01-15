@@ -56,7 +56,7 @@ setformData(
       </form>
       <div className='flex gap-2 mt-5'>
         <p>dont Have a account?</p>
-        <Link to={"/signin"}>
+        <Link to={"/signup"}>
           <span className='text-blue-700'>Sign Up</span>
         </Link>
         
